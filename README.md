@@ -38,9 +38,9 @@ ant_her_v2.py and the other files. To test the environments, run test.py.
 To train use from command line with conda env enabled:
 
 ```
-mpirun -np 4 python -m baselines.run --alg=her --env=ant_her-v2 --num_timesteps=2e6 --relative_goals=True --save_path=~/...
+mpirun -np 4 python -m baselines.run --alg=her --env=ant_her-v2 --num_timesteps=2e6 --relative_goals=True --save_path=~/projects/her_environments/networks/...
 ```
 To test weights run from command line with conda env enabled:
 ```
-python -m baselines.run --alg=her --env=ant_her-v2 --num_timesteps=0 --load_path=~/... --play
+python -m baselines.run --alg=her --env=ant_her-v2 --num_timesteps=0 --load_path=~/projects/her_environments/networks/... --play
 ```
