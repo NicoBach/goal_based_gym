@@ -1,0 +1,7 @@
+README.md
+setup.py
+goal_based_gym.egg-info/PKG-INFO
+goal_based_gym.egg-info/SOURCES.txt
+goal_based_gym.egg-info/dependency_links.txt
+goal_based_gym.egg-info/requires.txt
+goal_based_gym.egg-info/top_level.txt
