@@ -1,4 +1,4 @@
-![GoalBasedHumanoid](https://github.com/NicoBach/her_environments/blob/master/pictures/image1.png)
+![GoalBasedHumanoid](https://github.com/NicoBach/goal_based_gym/blob/master/pictures/image1.gif)
 
 Ant and Humanoid-environments made goal-based. The agent receives reward or no penalty, when it is able to move its head
 into the read circle.
