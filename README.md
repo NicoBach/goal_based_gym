@@ -1,3 +1,5 @@
+# Goal-based Environments - ant and humanoid 
+
 <p align="center">
   <img width="300" height="259" src="https://github.com/NicoBach/goal_based_gym/blob/master/pictures/ant_goal.gif">
 </p>
