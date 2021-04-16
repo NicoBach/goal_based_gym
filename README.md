@@ -5,7 +5,7 @@
 </p>
 
 Ant and Humanoid-environments made goal-based. The agent receives reward or no penalty, when it is able to move its head
-into the read circle.
+into the read circle (the goal). The goal can be moved by arrow keys.
 
 
 # Requirements
